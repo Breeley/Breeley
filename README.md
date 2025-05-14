@@ -1,4 +1,4 @@
-# 🌌 Iwander DoesThings
+# 🌌 Breeley
 
 > 💻 Tinkerer • 🌐 Web Dev in training • ⚡ Coffee-powered human  
 > 🧙 Currently diving deep into the dark arts of **PHP**
