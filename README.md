@@ -1,6 +1,6 @@
 # 🌌 Breeley
 
-> 💻 Tinkerer • 🌐 Web Dev in training • ⚡ Coffee-powered human  
+> 💻 Tinkerer • 🌐 Web Dev in training • ⚡ Monster-powered human  
 > 🧙 Currently diving deep into the dark arts of **PHP**
 
 Welcome to my corner of GitHub. Here you'll find code, chaos, and curiosity.
