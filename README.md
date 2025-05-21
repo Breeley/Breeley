@@ -40,13 +40,6 @@ Welcome to my corner of GitHub. Here you'll find code, chaos, and curiosity.
 
 ---
 
-## 🗺 Goals
-
-- 🎯 Build a full-stack PHP project from scratch  
-- 🤖 Train my own local AI assistant one day  
-
----
-
 ## 🤝 Let's Connect
 
 - 💬 Discord: `Breeley`
